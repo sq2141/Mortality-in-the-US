@@ -7,4 +7,4 @@ Data retrieved from: Death in the United States (Kaggle) dataset:
 
 To generate word cloud, requires a skull.png image mask.
 
-![](death_readme_img.png)
+![](mortality_readme_img.png)
